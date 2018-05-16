@@ -17,6 +17,7 @@ public class UsarMercurial {
     public static void main(String[] args) {
         // TODO code application logic here
          System.out.println("hola como estas");
+        System.out.println("hola como estas 2");
     }
     
 }
